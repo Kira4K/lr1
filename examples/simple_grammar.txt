@@ -1,0 +1,10 @@
+1 2 2
+S
+ab
+S-> aSb
+S-> ab
+S
+3
+ab
+aabb
+abb

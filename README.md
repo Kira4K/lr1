@@ -1,4 +1,4 @@
-'''code
+```bash
 tests/test_grammar.py::TestGrammar::test_epsilon_rule PASSED                                                                                               [  9%]
 tests/test_grammar.py::TestGrammar::test_get_rules_for PASSED                                                                                              [ 18%]
 tests/test_grammar.py::TestGrammar::test_grammar_creation PASSED                                                                                           [ 27%]
@@ -42,7 +42,7 @@ tests/test_simple.py              72     29    60%   10-32, 65-68, 101-104, 108-
 ------------------------------------------------------------
 TOTAL                            639    167    74%
 
-'''
+```
 # LR(1) Парсер
 
 Реализация LR(1) анализатора для проверки принадлежности слов языку, заданному контекстно-свободной грамматикой.
